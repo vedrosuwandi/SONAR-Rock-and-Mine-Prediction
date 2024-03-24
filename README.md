@@ -1,5 +1,5 @@
 <h2> SONAR Rock and Mine Prediction using Machine Learning Model </h2> 
-Resource : <a> https://www.youtube.com/watch?v=fiz1ORTBGpY </a>
+Resource : <link> https://www.youtube.com/watch?v=fiz1ORTBGpY </link>
 
 The models trained using traditional method and cross validation method
 
